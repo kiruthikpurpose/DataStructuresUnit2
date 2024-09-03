@@ -1,0 +1,25 @@
+# Applications of Queue:
+
+1. CPU Scheduling:
+   - Round Robin Scheduling: Manages processes in a circular queue where each process is given a fixed time slice for execution.
+
+2. Printer Queue:
+   - Print Job Management: Handles print jobs in the order they are received, ensuring that each job is printed sequentially.
+
+3. Breadth-First Search (BFS) in Graphs:
+   - Graph Traversal: Uses a queue to explore nodes level by level, starting from a given node and exploring all its neighbors before moving to the next level.
+
+4. Task Scheduling:
+   - Task Execution Order: Manages tasks in the order they are added, ensuring that each task is executed in a first-come, first-served manner.
+
+5. Call Center Systems:
+   - Customer Service Queues: Manages incoming customer service calls, ensuring that calls are answered in the order they are received.
+
+6. Handling Requests in Web Servers:
+   - Request Queuing: Web servers use queues to manage incoming requests, processing them in the order they arrive.
+
+7. Data Buffering:
+   - Streaming Data: Manages data buffers where incoming data is queued up for processing, such as in streaming audio or video applications.
+
+8. Asynchronous Data Transfer:
+   - I/O Buffers: Manages data being transferred between two processes or between a process and a device, ensuring smooth asynchronous communication.
